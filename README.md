@@ -2,7 +2,8 @@
 
 I'm Jake, a professional software developer always looking for something new to learn. I'm passionate about API development and how we can always do it beter. Outside of work I love to go on hikes with my dogs and enjoy what the world has to offer.
 
-# Repo Showcase[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoblbeck&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacoblbeck&show_icons=true&theme=yeblu)
+# Repo Showcase
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacoblbeck&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jacoblbeck&show_icons=true&theme=yeblu)
 <!--
 **jacoblbeck/jacoblbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
